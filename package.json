@@ -1,0 +1,24 @@
+{
+  "name": "advent-of-code-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionralfs/advent-of-code-2024.git"
+  },
+  "keywords": [],
+  "author": "Lion Ralfs <lion.ralfs@gmail.com> (https://lionralfs.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lionralfs/advent-of-code-2024/issues"
+  },
+  "homepage": "https://github.com/lionralfs/advent-of-code-2024#readme",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
